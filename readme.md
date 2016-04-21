@@ -1,1 +1,1 @@
-testing content
+This is new content file.
